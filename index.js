@@ -12,6 +12,12 @@ function myFunction() {
     }
 }
 
+document.getElementById("submitbtn").addEventListener('click',
+function submit(){
+    alert("Your message is sent successfully");
+}
+);
+
 // Theme Change
 let theme = localStorage.getItem('theme')
 

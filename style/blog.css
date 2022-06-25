@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(234, 223, 209);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    padding:7% 15%;
+}

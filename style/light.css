@@ -537,7 +537,7 @@ footer span {
 }
 
 .contact input, textarea {
-    color: black;
+    color: var(--mainText);
 }
 
 .contact-wrapper input, select, textarea {
